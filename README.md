@@ -1,7 +1,8 @@
 ## Hello Devs. 👋
 Iam Luz Giomar. Iam stand-alone developer who´s fun to have experimental project for development and sharing 
 
-- 🌱 Estudando typescript
+- 🌱 I`am currently learning about typescript
+- 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source projec base on fun and and knowledge-sharing 
 - 📫 contate-me no email: coachingluz@gmail.com
 - 😄 Pronouns: ela/dela
 
