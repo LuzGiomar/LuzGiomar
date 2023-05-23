@@ -3,8 +3,10 @@ Iam Luz Giomar. Iam stand-alone developer who´s fun to have experimental projec
 
 - 🌱 I`am currently learning about typescript
 - 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source projec base on fun and and knowledge-sharing 
-- 📫 contate-me no email: coachingluz@gmail.com
-- 😄 Pronouns: ela/dela
+- 🤔 I`am looking for help with people whoa has best experience in using programming
+- 💬 Ask me about life goalds, tecnology development, and books
+- 📫 How to reach me coachingluz@gmail.com
+- 😄 Pronouns: she/hers
 
 <div>
   <a href="https://github.com/luzgiomar">
