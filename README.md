@@ -1,4 +1,5 @@
-## Oiii! eu sou a Luz Giomar
+## Hello Devs. 👋
+Iam Luz Giomar
 
 - 🌱 Estudando typescript
 - 📫 contate-me no email: coachingluz@gmail.com
