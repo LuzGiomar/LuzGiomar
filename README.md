@@ -1,5 +1,5 @@
 ## Hello Devs. 👋
-Iam Luz Giomar
+Iam Luz Giomar. Iam stand-alone developer who´s fun to have experimental project for development and sharing 
 
 - 🌱 Estudando typescript
 - 📫 contate-me no email: coachingluz@gmail.com
