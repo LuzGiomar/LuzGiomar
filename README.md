@@ -24,5 +24,5 @@ Iam Luz Giomar. Iam stand-alone developer who´s fun to have experimental projec
  <div>
 
   <a href = "mailto:coachingluz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luz-giomar-6675b5199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  </div>
