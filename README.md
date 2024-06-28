@@ -19,7 +19,7 @@ Iam Luz Araldi, Systems analyst and developer, postgraduate Data Science in prog
 
   <img align="center" alt="Luz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luz-JAVA" height="30" width="40" <svg viewBox="0 0 128 128">
+
           
  </div>
 
