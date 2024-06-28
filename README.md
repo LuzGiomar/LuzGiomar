@@ -1,5 +1,5 @@
 ## Hello Devs. 👋
-Iam Luz Araldi. 
+Iam Luz Araldi, ADS, postgraduate data science in progress.
 
 - 🔭 Continually practicing web
 - 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source projec base on and knowledge-sharing 
