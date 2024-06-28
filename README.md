@@ -1,6 +1,6 @@
 ## Hello Devs. 👋🌍
 Iam Luz Araldi, Systems analyst and developer, postgraduate Data Science in progress.
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=10836855331125426" height="336" width="236" frameborder="0" scrolling="no" ></iframe>
+
 
 - 🔭 Continually practicing web
 - 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source projec base on and knowledge-sharing 
