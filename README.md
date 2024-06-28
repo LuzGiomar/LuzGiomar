@@ -1,7 +1,7 @@
 ## Hello Devs. 👋
 Iam Luz Araldi. Iam stand-alone developer who´s fun to have experimental project for development and sharing 
 
-- 🔭 Web Development Student
+- 🔭 Continually practicing web
 - 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source projec base on and knowledge-sharing 
 - 🌐 I`am looking for help with people whoa has best experience in using programming
 - 💬 Ask me about life goalds, tecnology development, and books.
