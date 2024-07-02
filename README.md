@@ -1,3 +1,4 @@
+![image](https://github.com/LuzGiomar/LuzGiomar/assets/97994219/d9121060-6147-4bac-a737-2fec0a84bfdb)
 ## Hello Devs. 👋🌍
 Iam Luz Araldi, Systems analyst and developer, postgraduate Data Science in progress.
 
