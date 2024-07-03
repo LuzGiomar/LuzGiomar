@@ -1,12 +1,12 @@
 ## Hello Devs. 👋🌍
 🟣 Iam Luz Araldi, Systems analyst and developer, postgraduate Data Science in progress.
 
-🟣 Currently living in Curitiba, Brazil 
-Nationality Cartagena, Colombia
+🟣 Currently living in Curitiba, Brazil; 
+Nationality Cartagena, Colômbia.
 
 
-- 🔭 Continually practicing web
-- 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source project that make a positive impact on people's lives.
+- 🔭 Continually practicing web;
+- 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source project that make a positive impact on people's lives;
 - 💬 Ask me about life goalds, tecnology development, and books.
 
 <div>
