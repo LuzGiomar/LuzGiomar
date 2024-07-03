@@ -28,8 +28,6 @@ Nationality Cartagena, Colombia
  ##
  
  <div>
-   ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luzaraldi.medium.com/)
   <a href = "mailto:coachingluz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  </div>
