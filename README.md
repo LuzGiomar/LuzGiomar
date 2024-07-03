@@ -28,7 +28,7 @@ Nationality Cartagena, Colombia
  ##
  
  <div>
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luzaraldi.medium.com/apoiando-os-m%C3%A9dicos-ap%C3%B3s-pandemia-do-coronav%C3%ADrus-atrav%C3%A9s-da-telemedicina-estudo-de-caso-de-ux-3e85a915069f/)
   <a href = "mailto:coachingluz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  </div>
