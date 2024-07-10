@@ -5,7 +5,7 @@ Currently living in Curitiba, Brazil;
 Nationality Cartagena, Colômbia.
 
 
-- 🔭 Continually practicing web;
+- 🔭 Continually Practicing Web;
 - 🧑🏾‍🤝‍🧑🏿 I`am looking to collaborate on open-source project that make a positive impact on people's lives;
 - 💬 Ask me about life goalds, tecnology development, and books.
 
