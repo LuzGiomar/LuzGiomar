@@ -1,4 +1,4 @@
-## Hello Devs. 👋🌍
+## Hello Devs. 👋🌍☕
 🟣 Iam Luz Araldi, Systems Analyst and Developer, ostgraduate Data Science in progress.
 
 Currently living in Curitiba, Brazil; 
@@ -18,9 +18,6 @@ Nationality Cartagena, Colômbia.
 <div style="display: inline_block"><br>
 
   <div>
-
-  <img align="center" alt="Luz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
           
  </div>
